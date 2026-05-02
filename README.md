@@ -41,17 +41,17 @@ graph TD
     end
 
     subgraph "DI Container (Koin)"
-        K[Koin Module] -. Inject .-> B
-        K -. Inject .-> C
-        K -. Inject .-> D
-        K -. Inject .-> E
-        K -. Inject .-> F
-        K -. Inject .-> G
+        K[Koin Module] -.->|Inject| B
+        K -.->|Inject| C
+        K -.->|Inject| D
+        K -.->|Inject| E
+        K -.->|Inject| F
+        K -.->|Inject| G
     end
 
     subgraph "Platform Layer (Android/iOS/JVM)"
-        E -- actual -- H[Native Network Implementation]
-        G -- actual -- I[Native Device Info Implementation]
+        E -->|actual| H[Native Network Implementation]
+        G -->|actual| I[Native Device Info Implementation]
         D --> J[(SQLDelight SQLite)]
         F --> L[(DataStore Preferences)]
     end
