@@ -2,6 +2,16 @@
 
 A modern, offline-first notes management application built with Kotlin Multiplatform (KMP). This version includes advanced platform integrations, dependency injection, and real-time monitoring.
 
+## Dokumentasi Visual
+
+| Device Info (Settings) | Network Indicator (Online) | Network Indicator (Offline) |
+| :---: | :---: | :---: |
+| <img width="328" height="717" alt="Screenshot 2026-05-02 142535" src="https://github.com/user-attachments/assets/ac370843-d606-4f11-a1c2-b6c85551112b" /> | <img width="333" height="719" alt="Screenshot 2026-05-02 142042" src="https://github.com/user-attachments/assets/c1e54a2f-6d5b-45d6-a3e9-6d70097cfa64" /> | <img width="328" height="718" alt="Screenshot 2026-05-02 142226" src="https://github.com/user-attachments/assets/c5731793-5216-4c85-b47a-21023af6c79c" /> |
+
+
+## Video Demo
+Video demo fitur aplikasi dapat diakses melalui tautan berikut : 
+
 ## 🚀 Key Features
 
 ### 1. Koin Dependency Injection
