@@ -10,7 +10,7 @@ A modern, offline-first notes management application built with Kotlin Multiplat
 
 
 ## Video Demo
-Video demo fitur aplikasi dapat diakses melalui tautan berikut : 
+Video demo fitur aplikasi dapat diakses melalui tautan berikut : https://drive.google.com/file/d/10imbMC9cpMbY3RoqBv9-ww8orqdDHl1o/view?usp=sharing
 
 ## 🚀 Key Features
 
