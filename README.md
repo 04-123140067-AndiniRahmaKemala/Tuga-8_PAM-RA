@@ -67,22 +67,6 @@ graph TD
     end
 ```
 
----
-
-## 📸 Screenshots
-
-### 📱 Main Features
-| Notes Home | Note Detail | Add/Edit Note |
-|:---:|:---:|:---:|
-| ![Notes Screen]() | ![Detail Screen]() | ![Add Screen]() |
-
-### 🛠️ Platform Features & Network
-| Network Offline Indicator | Device Info in Settings | Dark Mode |
-|:---:|:---:|:---:|
-| ![Network Indicator]() | ![Device Info]() | ![Dark Mode]() |
-
----
-
 ## 🛠️ Database Schema
 
 ```sql
